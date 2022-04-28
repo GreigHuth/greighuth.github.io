@@ -1,6 +1,7 @@
 ---
 layout: portfolio
 title: Powergrab - University Project
+link: https://github.com/GreigHuth/powergrab
 ---
 
 Powergrab was a 3rd year university project where we were tasked with programming a drone simulator. We used Java to implement the algorithms for two drones, a stateful one and a stateless one. The aim was to program drones to "fly" around a GeoJson map downloaded from a server and collect points from all of the good stations without touching any the bad stations and before the drone runs out of power. Every move the drone could make cost power and the drone was only allowed to make a maximum of 250 moves. 
@@ -10,6 +11,8 @@ You can see the path it takes
 
 
 The whole project was implemented from scratch, we were given no boilerplate and limited direction for how each drone should specifically operate. I implemented systems to manage the Stations, control the Drones, and represent the Position of each drone on the map. 
+
+As well as the code we were required to produce a comprehensive report detailing our implementation, you can have a look [here](https://raw.githubusercontent.com/GreigHuth/powergrab/master/ilp-report.pdf).
 
 ### The drones operated as follows:
 
@@ -33,4 +36,4 @@ station to visit, so it doesn’t try to keep going to the same one forever.
 
 After the game is over it generates text detailing all the moves made and an annotated GeoJson map showing the path taken by the drone.
 
-By the end of the project my drone was able to get a perfect score on all of the provided maps.
+By the end of the project my drone was able to get a perfect score on all of the provided maps. 
