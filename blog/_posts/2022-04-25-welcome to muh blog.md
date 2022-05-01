@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to blog"
 date:   2022-04-25
-tags: 
+tags: blog music record_store_day beer
 categories: blog
 ---
 
