@@ -7,7 +7,10 @@ layout: default
 
     <h2>Hello, i am Greig and this is my website. Its simple and straight to the point.</h2>
     
-    <a> Blog Posts</a>
+    <h4> Projects </h4>
+    <a href = "dvapes.html"> My Collection of Discarded Disposable Vapes </a>
+
+    <h4> Blog Posts</h3>
     <ul>
       {% for post in site.posts %}
         {% if post.categories contains "blog" %}
@@ -19,7 +22,7 @@ layout: default
       {% endfor %}
     </ul>
 
-    <a> Portfolio Links</a>
+    <h4> Portfolio Links</h4>
     <ul>
       {% for post in site.posts %}
         {% if post.categories contains "portfolio" %}
