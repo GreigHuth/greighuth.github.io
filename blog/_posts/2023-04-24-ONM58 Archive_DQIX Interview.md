@@ -12,7 +12,7 @@ categories: blog
 
 Archive of *The Official Nintendo Magazine UK* interview with *Dragon Quest* Creator Yuji Horii, as well as series composer Koichi Sugiyama and *Dragon Quest IX* producer Ryutaro Ichimura. Copied verbatim from issue 58 of *The Official Nintendo Magazine UK*, published by *Future plc* in July 2010 for The Shops.
 
->*Gurg Note: So just some context: ONM was my magazine of choice as a child. From around issue 35 all the way to the last one, every month I was ecstatic to jump into the world of video games and learn about the best, the worst, the stories of the developers, and what was to come. This interview didn't really stand out to me as a kid because, although I wanted to play DQ IX, I could only get like 3-4 video games a year and this was not high on a list with Monster Hunter Tri and (saddeningly) Metroid: Other M. But i digress, after a brief nostalgic episode I've decided to re-read the 20 or so issues I still have and archive interesting things from them, so here is the first. I couldn't find this interview online and ONM have some enlightening questions for the trio, so enjoy and email me (mail@ghuth.co.uk) if you have or see any issues of ONM you don't want anymore ;). Oh and so I can tell if people read this: red is Horii-san, blue is Sugiyama-san and green is Ichimura-san*
+>*Gurg Note: So just some context: ONM was my magazine of choice as a child. From around issue 35 all the way to the last one, every month I was ecstatic to jump into the world of video games and learn about the best, the worst, the stories of the developers, and what was to come. This interview didn't really stand out to me as a kid because, although I wanted to play DQ IX, I could only get like 3-4 video games a year and this was not high on a list with Monster Hunter Tri and (saddeningly) Metroid: Other M. But I digress, after a brief nostalgic episode I've decided to re-read the 20 or so issues I still have and archive interesting things from them, so here is the first. I picked this one for a few reasons, the main one being its source material. Im not a DQ fan, Ive only played a little of 9 so I was just curious about it anyway. But after reading through and seeing the answers, I found the content still very relevant to today, and an interesting account of the development of this game, what DQ means to the developers, how they implemented multiplayer and so on. DQIX was very different from VIII so the developers had a lot of challenging work to get through. Additionally, I couldn't find this interview online. ONM have some enlightening questions for the trio, so enjoy and email me (mail@ghuth.co.uk) if you have or see any issues of ONM you don't want anymore ;). Oh and so I can tell if people read this: red is Horii-san, blue is Sugiyama-san and green is Ichimura-san*
 
 # FEATURE: ENTER THE DRAGON
 
@@ -32,7 +32,7 @@ Of course, we've got more to discuss than the pros and cons of Aunt Bessie's pud
 He explains.
 
 <div class="quote-a"><i>
-"These are games where i believe you you should get the CD or whatever it is, stick it in the console immediately - don't read the manual, don't touch that manual. Just go in, pick up that controller and press buttons and see what happens. For me, and RPG is something you figure out very quickly, its very welcoming, very accessible, without looking at a manual."
+"These are games where I believe you you should get the CD or whatever it is, stick it in the console immediately - don't read the manual, don't touch that manual. Just go in, pick up that controller and press buttons and see what happens. For me, and RPG is something you figure out very quickly, its very welcoming, very accessible, without looking at a manual."
 </i></div>
 
 Much of *Dragon Quest's* accessibility stems from recognition. Over the nine games (as well as 40 ports, remakes and spin-offs) certain visual and audio motifs have remained unchanged. Think of the churches where you save or the parping jingle that plays upon levelling up. They offer us soothing familiarity - and Horii agrees.
@@ -93,7 +93,7 @@ And a spare thought for the poor composer Sugiyama. Having previously written a 
 
 he says. 
 
-<div class="quote-b"><i> But when i put together a score I'm thinking orchestrally, I'm thinking full symphony orchestra. I'll pull out of the DS whatever is possible to evoke that in the person playing the game. You'll be hearing MIDI noise, butmy aim is to give you the feeling you're listening to a full orchestra.</i></div>
+<div class="quote-b"><i> But when I put together a score I'm thinking orchestrally, I'm thinking full symphony orchestra. I'll pull out of the DS whatever is possible to evoke that in the person playing the game. You'll be hearing MIDI noise, butmy aim is to give you the feeling you're listening to a full orchestra.</i></div>
 
 Showing how in tune (sorry) he is with *IX's* epic scope. Sugiyama adds that
 
@@ -105,7 +105,7 @@ To the team's credit, *Dragon Quest IX* is a technical marvel. But, perhaps more
 
 says Horii. He seems to have relished the opportunity. 
 
-<div class="quote-a"><i> You can take it out on the street or bus or train, its's light and easygoing. You can play five minutes or you can play five hours straight, its up to you. If there are gaps in the day when you fel like playing you can do that. We've had feedback from people who have played two, three, 400 hours and they don't feel like 'God, I've played this game for ages', they feel like 'oh, i just dipped in and out of it' and then 'oh my goodness, i played 300 hours'.</i></div>
+<div class="quote-a"><i> You can take it out on the street or bus or train, its's light and easygoing. You can play five minutes or you can play five hours straight, its up to you. If there are gaps in the day when you fel like playing you can do that. We've had feedback from people who have played two, three, 400 hours and they don't feel like 'God, I've played this game for ages', they feel like 'oh, I just dipped in and out of it' and then 'oh my goodness, I played 300 hours'.</i></div>
 
 Having lost several weeks to our office copy, it's all too easy to believe.
 
@@ -182,7 +182,7 @@ Sounds like a pain. Sugiyama agrees.
 
 Hearing Sugiyama talk about a life's work, we're reminded just how long the men before us have been living in the world of *Dragon Quest*. In this light, *IX*'s new Wi-Fi co-op play has a particularly poignant role for Horii.
 
-<div class="quote-a"><i> Dragon Quest has a very long history, and people who played it when they were ten or 12 years old are now in their mid to late 30s, and i thought it important that those people had a chance to play with their children and help their children.</i></div>
+<div class="quote-a"><i> Dragon Quest has a very long history, and people who played it when they were ten or 12 years old are now in their mid to late 30s, and I thought it important that those people had a chance to play with their children and help their children.</i></div>
 
 Youthful Ichimura was one of these children --
 
@@ -190,7 +190,7 @@ Youthful Ichimura was one of these children --
 
 he admits. So how does it feel to shape the series now?
 
-<div class="quote-c"><i> I never thought id be in this position, and if there's one thing i have to be sad about, it's the face that I don't queue up any more outside the shop. Because I know what's coming, what's in the story, I miss that anticipation. But I'm very proud to be the producer.</i></div>
+<div class="quote-c"><i> I never thought id be in this position, and if there's one thing I have to be sad about, it's the face that I don't queue up any more outside the shop. Because I know what's coming, what's in the story, I miss that anticipation. But I'm very proud to be the producer.</i></div>
 
 If there's one thing that we'll take away from the trio, it's just how head over heels in love with the game they make. Twenty-four years is a long time to spend up to your elbows in Slimes, priests and potions, yet they all speak wit a puppyish enthusiasm. Ichimura builds the games he loved as a child. Sugiyama travels the world, playing the music and eating batter products. Horii admits to visiting games' hangout Akihabara and, unbeknownst to the fans with their 200-hour save files, playing with them. 
 
