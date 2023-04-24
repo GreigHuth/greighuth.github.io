@@ -4,12 +4,27 @@ layout: default
 
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
 
-<div style ="padding-left: 50px; padding-right: 50px;">
-  <h1>{{ page.title }}</h1>
+<!-- Header-->
+<div style ="padding-left: 50px; padding-right: 50px;"> 
+
+  <div style="text-align: center">
+    <h2> Gurg's ONM Archival Outhouse</h2>
+    <!-- <h5> Officially Certified, Compatible with and Married to: Mozilla Firefox Reader View.</h5> -->
+    <h5><i>This blog post is sponsored by Yevon.</i> </h5>
+  </div>
+
+  <h2> Issue: {{ page.issue }}</h2>
+  <h2> Published: {{ page.release }}</h2>
+
+  <h3> High Resolution Scans --> (COMING SOON)</h2>
+  <h2>{{ page.heading }}</h1>
+
 </div>
 
-<div style="padding-left: 100px; padding-right: 100px;">
-  {{content}}
+
+
+<div class="onm-archive">
+  {{ content }}
 </div>
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>

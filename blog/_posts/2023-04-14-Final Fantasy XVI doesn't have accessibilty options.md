@@ -10,9 +10,6 @@ categories: blog
 
 I'm halfway through the Final Fantasy XVI State of Play, released on 13 April 2023, when I begin to feel the ever present compulsion to locate a human and expose my thoughts to them. The human usually available for this is busy so i'm writing __this__ instead.
 
-
-
-
 ## Accessibility is an Expectation
 
 
