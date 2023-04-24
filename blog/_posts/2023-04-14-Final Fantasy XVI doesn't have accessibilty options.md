@@ -2,17 +2,13 @@
 layout: post
 title:  "We really only doing this once a year?: Final Fantasy XVI doesn't have accessibility options, it just has condescension."
 date:   2023-04-14
-tags: blog games video-games software Final-Fantasy Sony Playstation Playstation-5 YoshiP gaming
+tags: blog games video-games Final-Fantasy Final-Fantasy-XVI Sony Playstation Playstation-5 Sony-Playstation-5 Yoshi-P Naoki Yoshida gaming accessibility disability awareness easy-mode difficulty-settings
 categories: blog
 ---
 
 
 
-
 I'm halfway through the Final Fantasy XVI State of Play, released on 13 April 2023, when I begin to feel the ever present compulsion to locate a human and expose my thoughts to them. The human usually available for this is busy so i'm writing __this__ instead.
-
-
-
 
 ## Accessibility is an Expectation
 
