@@ -168,11 +168,11 @@ he explains.
 
 Talking of patience, we can't resist asking Mr Sugiyama a question that goes through the head of every RPG fan at some point: how do you write a combat theme, likely to be heard tens of thousands of times, that doesn't send players loopy?
 
-<div class="quote-a"><i> The battle theme is the one piece of music you hear the most in the game and is the most difficult part of my job,</i></div>
+<div class="quote-b"><i> The battle theme is the one piece of music you hear the most in the game and is the most difficult part of my job,</i></div>
 
 he explains.
 
-<div class="quote-a"><i> I'm getting the test game early and playing the battle scenes, and even before that I'm at the planning stage and talking about how many different battle scenes we're going to have, and therefore I need to make different combat music for those particular types of battle. If you play DQI to IX, the music for those battle scenes is different in each one.</i></div>
+<div class="quote-b"><i> I'm getting the test game early and playing the battle scenes, and even before that I'm at the planning stage and talking about how many different battle scenes we're going to have, and therefore I need to make different combat music for those particular types of battle. If you play DQI to IX, the music for those battle scenes is different in each one.</i></div>
 
 Sounds like a pain. Sugiyama agrees.
 
