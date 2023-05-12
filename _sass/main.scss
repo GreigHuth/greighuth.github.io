@@ -1,6 +1,29 @@
 
-.main-content{
-    padding: 1cm;
+
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+div {
+    line-height: 1;
+}
+
+p {
+    line-height: 1.3;
+}
+
+li {
+    line-height: 1.3;
+}
+
+h1 {
+    text-align: center;
+}
+
+figcaption{
+    font-size: 80%;
+    text-align: center;
 }
 
 ul.no-bullets {
@@ -43,11 +66,7 @@ div.quote-c{
     margin-right: 30px;
 }
 
-div {
-    line-height: 1;
-}
 
-
-h1 {
-    text-align: center;
+.main-content{
+    padding: 1cm;
 }
