@@ -6,13 +6,15 @@ issue: 58
 release: "August 2010"
 feature-title: "Enter The Dragon"
 heading: "Interview with Dragon Quest Creator Yuji Horii, Dragon Quest composer Koichi Sugiyama, and Dragon Quest IX producer Ryutaro Ichimura."
-tags: blog games video-games Dragon-Quest Dragon-Quest-9 Yuji-Horii Koichi-Sugiyama Ryutaro-Ichimura beef Yorkshire-Puddings Nintendo Nintendo-DS Nintendo-DS Multiplayer Local-Multiplayer Slimes Archive Retrospective Interview Game-Development 
+tags: Official-Ninentdo-Magazine Archive Retrospective Interview Game-Development Nintendo ONM ONMUK video-games Dragon-Quest Dragon-Quest-9 Yuji-Horii Koichi-Sugiyama Ryutaro-Ichimura Nintendo Nintendo-DS Multiplayer Local-Multiplayer Slimes 
 categories: blog
 ---
 
 Archive of *The Official Nintendo Magazine UK* interview with *Dragon Quest* Creator Yuji Horii, as well as series composer Koichi Sugiyama and *Dragon Quest IX* producer Ryutaro Ichimura. Copied verbatim from issue 58 of *The Official Nintendo Magazine UK*, published by *Future plc* in July 2010 for The Shops.
 
 >*Gurg Note: So just some context: ONM was my magazine of choice as a child. From around issue 35 all the way to the last one, every month I was ecstatic to jump into the world of video games and learn about the best, the worst, the stories of the developers, and what was to come. This interview didn't really stand out to me as a kid because, although I wanted to play DQ IX, I could only get like 3-4 video games a year and this was not high on a list with Monster Hunter Tri and (saddeningly) Metroid: Other M. But I digress, after a brief nostalgic episode I've decided to re-read the 20 or so issues I still have and archive interesting things from them, so here is the first. I picked this one for a few reasons, the main one being its source material. Im not a DQ fan, Ive only played a little of 9 so I was just curious about it anyway. But after reading through and seeing the answers, I found the content still very relevant to today, and an interesting account of the development of this game, what DQ means to the developers, how they implemented multiplayer and so on. DQIX was very different from VIII so the developers had a lot of challenging work to get through. Additionally, I couldn't find this interview online. ONM have some enlightening questions for the trio, so enjoy and email me (mail@ghuth.co.uk) if you have or see any issues of ONM you don't want anymore ;). Oh and so I can tell if people read this: red is Horii-san, blue is Sugiyama-san and green is Ichimura-san*
+
+Key: red is Horii, blue is Sugiyama and green is Ichimura.
 
 # FEATURE: ENTER THE DRAGON
 
