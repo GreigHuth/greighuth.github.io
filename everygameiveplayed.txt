@@ -1,107 +1,272 @@
---Arcade--
+All years are the japanese year of release.
+Last edit: 14/06/23
+INCOMPLETE
+
+
+--1978--
+Space Invaders
+
+--1979-- 2nd Generation (Arcade)
+Asteroids (Flash Version)
+
+--1980--
+Pac-Man
+
+--1981--
 Donkey Kong
-Bubble Bobble
-Street Fighter 1
-Street Fighter 2
+Galaga
 
-3rd Generation (Master System, NES)
-
---1985--
-Super Mario Bros.   
+--1985-- 3rd Generation (Master System, NES)
+Super Mario Bros. (Wii VC)
 
 --1986--
-Donkey Kong (NES)
+Bubble Bobble
+Super Mario Bros. 2 The Lost Levels (Wii VC)
+Donkey Kong (NES) (Wii U VC)
+Metroid (Wii VC)
+Kid Icarus (3D Classics Release)
+The Legend Of Zelda (Zelda Collectors Edition)
 
 --1987--
-Kid Icarus
-The Legend Of Zelda
-Punch-Out
-Mega Man
-Metroid
+Street Fighter 1 (Street Figther 30th Anniversary)
+Mike Tyson's Punch-Out!! (Wii U VC)
+Mega Man (Wii U VC)
 
-4th Generation (Mega Drive, SNES, NeoGeo, PC Engine)
-
---1988--
-Super Mario Bros. 2 
-Space Harrier II 
-Altered Beast 
-Alex Kidd in the Enchanted Castle - "Mario learns about the free market"
-The Revenge of Shinobi
-Golden Axe 
-
+--1988-- 4th Generation (Mega Drive, SNES, NeoGeo, PC Engine)
+Super Mario Bros. 2/USA (Wii VC)
+Space Harrier II (Sega Mega Drive Ultimate Collection)
+Altered Beast (Sega Mega Drive Collection)
+Alex Kidd in the Enchanted Castle - "Mario learns about the free market"(Sega Mega Drive Collection)
+The Revenge of Shinobi (Sega Mega Drive Collection)
+Mega Man 2 (Wii VC)
+Super Mario Bros. 3 (Wii VC)
 --1989--
-Mega Man 2
-
+Super Mario Land
+Golden Axe (Sega Mega Drive Collection)
 --1990--
-Super Mario Bros. 3
-Decap Attack 
-F-Zero
-Super Mario World
-Pilotwings
+Decap Attack (Sega Mega Drive Collection)
+F-Zero (Wii U VC)
+Super Mario World (Wii VC)
+Pilotwings (Wii U VC)
 
 --1991--
-Gain Ground
-Bonanza Bros.
-Sonic The Hedgehog
-The Legend Of Zelda: A Link to the Past 
-Street Fighter 2
+Gain Ground (Sega Mega Drive Collection)
+Bonanza Bros. (Sega Mega Drive Collection)
+Sonic The Hedgehog 
+The Legend Of Zelda: A Link to the Past (Wii VC)
+Street Fighter 2 
 
 --1992--
-ToeJam & Earl
-Super Mario Kart 
-Super Star Wars 
-Kid Chameleon 
+ToeJam & Earl (Sega Mega Drive Collection)
+Super Mario Kart (?)
+Super Star Wars (Hacked SNES Classic?)
+Kid Chameleon (Sega Mega Drive Collection)
 Sonic the Hedgehog 2
 
-5th Generation (Sony PlayStation, N64)
---1993--
-StarFox 
-Mega Man X
-Ecco the Dolphin
+--1993-- 5th Generation (Sony PlayStation, N64)
+StarFox (Nintendo Switch)
+Mega Man X (Wii VC)
+Ecco the Dolphin (Sega Mega Drive Collection)
 Disney's Aladdin
-Sonic Spinball
-Dr Robotniks Mean Bean Machine
+Sonic Spinball (Sonic Mega Collection Plus)
+Dr Robotniks Mean Bean Machine (Sonic Mega Collection Plus)
 
 --1994--
-Sonic the Hedgehog 3
-Super Metroid
-Final Fantasy VI
-Super Street Fighter II: The New Challengers
-Earthbound
-Sonic & Knuckles
-Donkey Kong Country
-Bishōjo Senshi Sailor Moon S: Jōgai Rantō!? Shuyaku Sōdatsusen
-The Lion King
+Sonic the Hedgehog 3 (Sonic Mega Collection Plus)
+Super Metroid (Wii VC)
+Final Fantasy VI (Wii VC)
+Super Street Fighter II: The New Challengers (Wii U VC)
+Earthbound (Wii U VC)
+Sonic & Knuckles (Sonic Mega Collection Plus)
+Bishōjo Senshi Sailor Moon S: Jōgai Rantō!? Shuyaku Sōdatsusen 
+The Lion King 
 
 --1995--
-Ristar
-Comix Zone
-Vectorman
+Ristar (Sega Mega Drive Collection)
+Comix Zone (Sega Mega Drive Collection)
+Vectorman (Sega Mega Drive Collection)
+Dragon Ball Z Ultimate Battle 22
 
 --1996--
-Sonic 3D Flickies Island
-Kirby's Fun Pak 
+Sonic 3D Flickies Island (Sonic Mega Collection Plus)
+Kirby's Fun Pak (Wii U VC)
 Super Mario 64
 Star Wars: Shadows Of the Empire
 Mario Kart 64
+Pokemon Red
+Pokemon Blue
 
---1997-- 
+--1997-- (When i Was born)
 Lylat Wars 
-Goldeneye 007
-Yoshis Story
+Goldeneye 007 (Nintendo Switch)
+Yoshis Story (Wii VC)
 
-6th Generation (Sega Dreamcast, PS2, Gamecube, Xbox)
-
---1998--
-Banjo-Kazooie
-The Legend Zelda: Ocarina Of Time 
+--1998-- 6th Generation (Sega Dreamcast, PS2, Gamecube, Xbox)
+Banjo-Kazooie (Xbox 360)
+Metal Gear Solid
+The Legend of Zelda: Ocarina Of Time 
+Pokemon Yellow
 
 --1999--
 Pokemon Snap 
 Pokemon Stadium 
 Lego Racers
-Paper Mario 
-Pokemon Puzzle League
+Paper Mario (Wii VC)
+Pokemon Puzzle League (Nintendo Switch)
+Crazy Taxi (PS2)
+Pokemon Silver 
+
+--2000--
+Kirby 64 and the Crystal shards
+The Legend Of Zelda: Majoras Mask
+Marvel Vs Capcom 2
+
+--2001--
+Final Fantasy X
+Metal Gear Solid 2: Sons Of Liberty
+Super Smash Bros. Melee
+Capcom Vs SNK 2: Millionaire Fighting 2001
+Halo: Combat Evolved
+Devil May Cry
+Mario Kart: Super Circuit
+Star Wars Rogue Squadron II: Rogue leader
+Max Payne
+Pikmin (New Play release on Wii)
+Super Monkey Ball
+The Simpsons: Road Rage
+
+--2002--
+Star Wars Jedi Knight II: Jedi Outcast
+The Elder Scrolls: Morrowind
+Tony Hawk's Pro Skater 4
+Ratchet and Clank
+Metroid Fusion
+The Legend of Zelda: Wind Waker
+Grand Theft Auto Vice City
+Super Mario Sunshine
+Star Wars: The Clone Wars
+Metal Gear Solid 2: Substance
+Harry Potter and the Chamber of Secrets (GBA)
+The Simpsons Skateboarding
+Star Wars: The New Droid Army
+007: Nightfire
+Pokemon Ruby
+Final Fantasy I & II: Dawn of Souls
+
+--2003--
+The Getaway
+Rayman 3: Hoodlum Havoc
+Castlevania: Aria Of Sorrow
+Finding Nemo (GCN)
+Warioware Mega Microgame$
+Sonic Adventure DX: Directors Cut
+Tomb Raider: The Angel of Darkness
+Star Wars: Knights Of the Old Republic
+The Simpsons: Hit & Run
+Star Wars Jedi Knight: Jedi Academy
+Teenage Mutant Ninja Turtles (GCN)
+Harry Potter: Quidditch World Cup
+The Lord of the Rings: Return of the King (PS2)
+Beyond Good and Evil 
+Looney Tunes: Back in Action
+The Legend of Zelda: Collector's Edition
+Mario & Luigi: Superstar Saga
+Mario Kart: Double Dash
+Sonic Heroes
+
+--2004--
+
+--2005--
+
+--2006--
+
+--2007--
+
+--2008--
+
+--2009--
+
+--2011--
+
+--2012--
+
+--2013--
+
+--2014--
+
+--2015--
+
+--2016--
+
+--2017--
+
+--2018--
+
+--2019--
+
+--2020--
+Animal Crossing New Horizons
+Doom Eternal
+Demon's Souls (PS5)
+Spiderman: Miles Morales
+Ghost Of Tsushima
+
+--2020--
+Persona 5: Strikers
+
+--2021--
+Scott Pilgrim vs. The World: The Game - Complete Edition
+Super Mario 3D Land + Bowsers Fury
+Monster Hunter Rise
+Disco Elysium: The Final Cut 
+The Binding of Issac: Repentance
+Pac-Man 99
+Nier Replicant Ver. 122474487139...
+New Pokemon Snap
+Returnal
+Resident Evil Village
+Final Fantasy VII Remake Intergrade
+Game Builder Garage
+Guilty Gear Strive
+Ratchet and Clank: Rift Apart
+The Legend of Zelda: Skyward Sword HD
+Pokemon Unite
+Aliens Fireteam Elite
+Psychonauts 2
+Deathloop
+Death Stranding Directors Cut
+Metroid Dread
+Heliopedia (2022)
+Pokemon Brilliant Diamond and Shining Pearl
+Final Fantasy XIV: Endwalker
+Halo Infinite 
+
+--2022--
+Yu-Gi-Oh! Master Duel
+Pokemon Legends: Arceus
+Cyberpunk 2077
+Elden Ring
+Tunic
+Kirby and the Forgotten land
+Lego Star Wars: The Skywalker Saga
+Star Wars: The Force Unleashed (NS Port)
+Nintendo Switch Sports
+DNF Duel
+Multiversus
+Dome Keeper
+Vampire Survivors
+God Of War Ragnarok
+Stalcraft
+Warhammer 40,000: Darktide
+Crisis Core: Final Fantasy VII Reunion
+Half-Life 2 VR 
+
+--2023--
+Metroid Prime Remastered
+Dead Space (2023)
+The Legend of Zelda: Tears of the Kingdom
+Street Fighter 6
+
 
 
 
