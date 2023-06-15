@@ -1,6 +1,6 @@
 ---
 layout: archive_post
-title:  "Official Nintendo Magazine Retrospective Series - Issue 58 Dragon Quest IX Interview"
+title:  "Issue 58 - Dragon Quest IX Interview w/ Yuji Horii, Koichi Sugiyama, and Ryutaro Ichimura"
 date:   2023-04-24
 issue: 58
 release: "August 2010"
@@ -203,7 +203,7 @@ Having opened our interview with the essence of *Dragon Quest* as a whole it see
 
 <div class="quote-a"><i> The thing to take away from this is that is that it's not so difficult you won't know where to start. It's accessible - fire it up and give it a try. Play with your friends, with your girlfriend or boyfriend. Help each other to learn to play the game and you'll have a lot of fun. "</i></div>
 
- We have no beef with that.
+ We have no beef with that.<b>+</b>
 
 
 ## END OF TEXT

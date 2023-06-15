@@ -27,16 +27,16 @@ You're also able to use a key item you get to power Zonai items, like a flamethr
 The intro area is a loop which is some classic Game DesignTM right there, but it works and you get a fun shortcut back. Overall the game is brimming with potential. In a word I am simply: excited.
 
 __Likes:__
-New mechanics are so powerful I cant see the height of their potential yet and this is good
-In particular fuse might fix a lot of issues I have with weapon degradation, you get a lot more resources than in BOTW I think.
-More inventory slots was essential.
-You can go to the menu from the item acquired screen.
-You also have more default slots which was sorely needed
-Being able to break rocks with weapons was something I didn't realise I needed until now.
+- New mechanics are so powerful I cant see the height of their potential yet and this is good
+- In particular fuse might fix a lot of issues I have with weapon degradation, you get a lot more resources than in BOTW I think.
+- More inventory slots was essential.
+- You can go to the menu from the item acquired screen.
+- You also have more default slots which was sorely needed
+- Being able to break rocks with weapons was something I didn't realise I needed until now.
 
 __Dislikes:__
-They made the Pro UI worse, before you were still able to see health and some other things but now it removes all UI, give us more UI options pls.
-The Ultrahand doesn't control perfectly but it's a fairly complicated mechanic.
+- They made the Pro UI worse, before you were still able to see health and some other things but now it removes all UI, give us more UI options pls.
+- The Ultrahand doesn't control perfectly but it's a fairly complicated mechanic.
 
 
 <figure>
