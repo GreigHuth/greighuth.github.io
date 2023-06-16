@@ -10,7 +10,11 @@
     <title>{{ page.title }}</title>
   </head>
   <body style="background-color: whitesmoke;">
-    {% include nav.html %}
+    <div style=" justify-content: center;
+    display: flex;">
+      {% include nav.html %}
+    </div>
+    
     
     <div class="main-content">
       {{ content }}
