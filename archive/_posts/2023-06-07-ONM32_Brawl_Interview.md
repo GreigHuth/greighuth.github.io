@@ -149,7 +149,7 @@ Regrets over the cuts necessary to ﬁnish the game aside, there's no denying th
 says. “However, I also understand that there are millions of fans out there who love the series so if Mr Iwata came to me in a few years time and asked me to make another one, I'd have to give it some serious thought."
 </i></div>
 
-Considering just how packed the finished _Brawl_ has turned out to be, it’s obvious that the next _Super Smash Bros._ game will need to be something really very special and Sakurai’s involvement hinges on just how different it’1l end up being.
+Considering just how packed the finished _Brawl_ has turned out to be, it’s obvious that the next _Super Smash Bros._ game will need to be something really very special and Sakurai’s involvement hinges on just how different it’ll end up being.
 <div class="quote-a"><i>
 "There are 39 characters in the game this time around," he says, “and just adding a few more wouldn't be enough to justify another game in my opinion; I'd have to draw a line in the sand and have a new approach to the game to make it worthwhile. As long
 as the fans enjoy it though, that’s what matters and in the distant future, I guess that might be something I'll have to consider."<b>+</b>
