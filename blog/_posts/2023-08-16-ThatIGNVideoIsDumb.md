@@ -19,7 +19,7 @@ If you still think IGN cares about the consumer, all of the games criticised in 
 - ME:Andromeda - 7.7/10
 - Cyberpunk 2077 - 9/10
 
-All of these games were nearly universally panned/heavily criticised by other outlets and yet they just slap on a nice fat yummy high score so that the publishers might glance at them with some kind of emotion similar to respect. IGN have had ample opportunity to criticise and influence the industry but are content on bootlicking big publishers in fear of being left out.
+All of these games were heavily criticised by other outlets and yet IGN just slap on a nice fat yummy high score so that the publishers might glance at them with some kind of emotion similar to respect. If they truly cared they wouldn't give them such high scores, you can say the scores dont matter but its not a "Review Summary" that goes in the trailer is it? IGN have had ample opportunity to criticise and influence the industry when they review problematic AAA games but are content on bootlicking big publishers in fear of being left out.
 
 IGN are clowns.
 
