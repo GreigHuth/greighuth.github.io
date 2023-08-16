@@ -5,8 +5,6 @@ date:   2023-08-16
 tags: blog games video-games BaldursGate3 LarianStudios IGN controversy
 ---
 
-# That Baldurs Gate 3 IGN Video is fucking stupid and they are hypocrites
-
 Just a short one.
 
 I watched that IGN video about Baldur's Gate 3 and I think it's a load of crap and wanted to just explain why. Here is a link: https://www.youtube.com/watch?v=iWdZhKFtxKg
