@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "That Baldurs Gate 3 IGN Video is fucking stupid and they are hypocrites"
-date:   2023-04-14
+date:   2023-08-16
 tags: blog games video-games BaldursGate3 LarianStudios IGN controversy
 ---
 
