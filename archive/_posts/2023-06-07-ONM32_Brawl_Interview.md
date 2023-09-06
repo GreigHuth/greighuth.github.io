@@ -10,7 +10,7 @@ tags: Official-Nintendo-Magazine Archive Retrospective Interview Game-Developmen
 categories: archive
 quip: "Breaking News: Brawl Online Not Good, Never Was Good."
 header_img: /static/ONM/32/1.jpg
-intro: Archive of <i>The Official Nintendo Magazine UK</i> interview with <i>Super Smash Bros. </i> director and <i>Kirby</i> Creator Masahiro Sakurai, on the (at the time) upcoming release of Super Smash Bros. Brawl. Transcribed verbatim from issue 32 of <i>The Official Nintendo Magazine UK</i>, published by <i>Future plc</i> in July 2008 for The Shops. Sakurai insightfully discusses topics ranging from the intended control scheme, the online multiplayer and Subspace Emissary and recalling when Iwata first approached him about the game. If you have any comments, requests or corrections dont hesitate to get in touch (mail@ghuth.co.uk)
+intro: Archive of <i>The Official Nintendo Magazine UK</i> interview with <i>Super Smash Bros. </i> director and <i>Kirby</i> Creator Masahiro Sakurai, on the (at the time) upcoming release of Super Smash Bros. Brawl. Transcribed verbatim from issue 32 of <i>The Official Nintendo Magazine UK</i>, published by <i>Future plc</i> in July 2008 for The Shops. Sakurai insightfully discusses topics ranging from the intended control scheme, the online multiplayer and Subspace Emissary and recalling when Iwata first approached him about the game. 
 notes: this took me about 2.5 hours to do.
 ---
 

@@ -1,0 +1,27 @@
+---
+title: GurgCorp Home Page
+layout: default
+---
+
+<div class="">
+
+  <h4> ONM Retrospective Series </h4>
+  <ul class="no-bullets">
+    {% for post in site.posts %}
+      {% if post.categories contains "archive" %}
+        <li>
+          <div style="line-height: 20px;">
+            <a href ="{{ post.url }}">{{ post.title }} </a>
+            <div>
+              <p>{{ post.intro }}</p>
+            </div>
+            
+          </div>
+          <a>-----------------------------------------------------</a>
+        </li>
+      {% endif %}
+      
+    {% endfor %}
+  </ul>
+
+</div>

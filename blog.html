@@ -1,0 +1,18 @@
+---
+title: GurgCorp Home Page
+layout: default
+---
+
+<h4> Blog Posts</h3>
+<ul class="no-bullets">
+    {% for post in site.posts %}
+    {% if post.categories contains "blog" %}
+        <li>
+        <div style="line-height: 20px;">
+        <a> {{ post.date | date: "%-d %B %Y" }} - </a>
+        <a href ="{{ post.url }}"> {{ post.title }} </a>
+        </div>
+        </li>
+    {% endif %}
+    {% endfor %}
+</ul>
