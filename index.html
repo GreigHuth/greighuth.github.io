@@ -25,7 +25,7 @@ layout: default
   </div>
 
   <h4> Portfolio Links</h4>
-  <ul>
+  <ul class="no-bullets">
     {% for post in site.posts %}
       {% if post.categories contains "portfolio" %}
         <li>
@@ -33,6 +33,18 @@ layout: default
         </li>
       {% endif %}
     {% endfor %}
+    <li>
+      <a href ="https://github.com/GreigHuth/ghttpd"> ghttpd - Bespoke HTTP response server for my dissertation</a>
+    </li>
+    <li>
+      <a href ="https://github.com/GreigHuth/nugam">Nugam - Exploration focussed 2D Pico-8 game. WIP</a>
+    </li>
+    <li>
+      <a href ="https://github.com/GreigHuth/os-coursework"> Operating Systems University Coursework</a>
+    </li>
+    <li>
+      <a href="https://github.com/GreigHuth/DiscordGameTracker">Discord Game Tracker Bot</a>
+    </li>
   </ul>
 
 
