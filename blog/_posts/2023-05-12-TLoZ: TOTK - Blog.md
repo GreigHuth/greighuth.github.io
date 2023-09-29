@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TLoZ Tears of the Kingdom Blog"
+title:  "Day 1 Thoughts on TLoZ: Tears of the Kingdom"
 date:   2023-05-12
 tags: blog games video-games Zelda The-Legend-Of-Zelda Tears-of-the-Kingdom TOTK Breath-of-the-Wild BOTW open-world
 categories: blog
