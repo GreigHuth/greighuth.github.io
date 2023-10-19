@@ -76,6 +76,7 @@ Ecco the Dolphin (Sega Mega Drive Collection)
 Disney's Aladdin
 Sonic Spinball (Sonic Mega Collection Plus)
 Dr Robotniks Mean Bean Machine (Sonic Mega Collection Plus)
+Secret Of Mana
 
 --1994--
 Sonic the Hedgehog 3 (Sonic Mega Collection Plus)
@@ -324,6 +325,7 @@ Sonic Unleashed
 LocoRoco 2
 Patapon 2
 Flipnote Studio
+Monster Hunter Freedom Unite
 
 --2009--
 Sonic Ultimate Mega Drive Collection
@@ -335,7 +337,6 @@ Minecraft
 Lego Battles
 Transformers: Revenge of the Fallen
 Transformers Revenge of the Fallen: Decepticons
-Monster Hunter Freedom Unite
 Wii Sports Resort
 Trials HD
 Metroid Prime: Trilogy
@@ -362,8 +363,57 @@ Bit.Trip Void
 James Cameron's Avatar: The Game
 The Legend of Zelda: Spirit Tracks
 Angry Birds
+Monster Hunter Tri
+
+--2010--
+VVVVVV (3DS)
+Mass Effect 2
+Bioshock 2
+Sonic and Sega All Stars Racing
+Mega Man 10
+Final Fantasy XIII
+Metro 2033
+Cave Story (WiiWare)
+Just Cause 2
+Dark Void Zero
+Lost Planet 2
+Bit Trip Runner
+Alan Wake
+Red Dead Redemption
+Shrek Forever After
+Super Mario Galaxy 2
+Metal Gear Solid Peace Walker (HD collection)
+Dragon Quest IX: Sentinels of the Starry Skies
+Limbo
+Scott Pilgrim vs. the World: The Game
+Castle Crashers
+Metroid: Other M
+Recettear: An Item Shop's Tale
+Halo: Reach
+Pokemon Black and White
+Dead Rising 2
+Sonic the Hedgehog: Episode 1
+Kirby's Epic Yarn
+Fallout: New Vegas
+Vanquish (PC)
+Super Meat Boy
+Fable III
+Red Dead Redemption: Undead Nightmare
+007: Goldeneye
+Call of Duty 7: Black Ops
+Assassins Creed: Brotherhood
+Sonic Colours
+Donkey Kong Country Returns
+Epic Mickey
+Doritos Crash Course
+Super Mario All-Stars
+
 
 --2011--
+Dark Souls
+Skyrim
+Call of Duty 9: Modern Warfare 3
+
 
 --2012--
 
