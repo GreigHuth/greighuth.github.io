@@ -17,6 +17,9 @@ Pac-Man
 Donkey Kong
 Galaga
 
+--1982--
+Tron
+
 --1985-- 3rd Generation (Master System, NES)
 Super Mario Bros. (Wii VC)
 
