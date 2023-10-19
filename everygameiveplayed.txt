@@ -109,6 +109,7 @@ Banjo-Kazooie (Xbox 360)
 Metal Gear Solid
 The Legend of Zelda: Ocarina Of Time 
 Pokemon Yellow
+R4: Ridge Racer Type 4
 
 --1999--
 Pokemon Snap 
@@ -118,6 +119,7 @@ Paper Mario (Wii VC)
 Pokemon Puzzle League (Nintendo Switch)
 Crazy Taxi (PS2)
 Pokemon Silver 
+Gran Turismo 2
 
 --2000--
 Kirby 64 and the Crystal shards
@@ -176,6 +178,7 @@ The Legend of Zelda: Collector's Edition
 Mario & Luigi: Superstar Saga
 Mario Kart: Double Dash
 Sonic Heroes
+Space Invaders Anniversary
 
 --2004--
 Pokémon LeafGreen
