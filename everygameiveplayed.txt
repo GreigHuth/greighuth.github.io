@@ -3,7 +3,6 @@ All years are the earliest year of release.
 Last edit: 11/10/23
 INCOMPLETE
 
-
 --1978--
 Space Invaders
 
@@ -326,6 +325,7 @@ LocoRoco 2
 Patapon 2
 Flipnote Studio
 Monster Hunter Freedom Unite
+Guilty Gear XX Accent Core Plus
 
 --2009--
 Sonic Ultimate Mega Drive Collection
@@ -366,7 +366,6 @@ Angry Birds
 Monster Hunter Tri
 
 --2010--
-VVVVVV (3DS)
 Mass Effect 2
 Bioshock 2
 Sonic and Sega All Stars Racing
@@ -410,14 +409,171 @@ Super Mario All-Stars
 
 
 --2011--
+Dead Space 2
+Magicka
+Bulletstorm
+Crysis 2
+Dissidia 012 Final Fantasy
+Pilotwings Resort
+Super Street Fighter IV: 3D Edition
+Patapon 3
+Fancy Pants Adventures
+Mortal Kombat
+Portal 2
+Terraria
+The Witcher 2: Assassins of Kings
+inFamous 2
+Red Faction: Armageddon
+The Legend Of Zelda: Ocarina of Time 3D
+Resident Evil: The Mercenaries 3D
+Bastion
+Insanely Twisted Shadow Planet
+Deus Ex: Human Revolution
+Resistance 3
+Warhammer 40,000: Space Marine
+Star Fox 64 3D
+Bit Trip Saga
+Resident Evil 4 HD
+The Binding Of Issac
 Dark Souls
-Skyrim
+Payday: The Heist
+Battlefield 3
+Sonic Generations
+To The Moon
 Call of Duty 9: Modern Warfare 3
-
+Metal Gear Solid HD Collection
+Freakyforms: Your Creations, Alive!
+Skyrim
+Super Mario 3D Land
+Rayman Origins
+Saints Row: The Third
+Ultimate Marvel vs. Capcom 3
+Minecraft (actual release date)
+The Legend Of Zelda: Skyward Sword
+Cave Story +
+The King Of Fighters XIII
+Sonic Generations (3DS)
+Mario Kart 7
+Fortune Street
+Pullblox
+Star Wars: The Old Republic
+Trine 2
+Mighty Switch Force
+VVVVVV
+Mario and Sonic at the Olympic Winter Games 2010
 
 --2012--
+Dustforce
+Resident Evil: Revelations
+Warp
+Dillons Rolling Western
+The Simpsons: Tapped Out
+I Am Alive
+Kid Icarus: Uprising
+Temple Run
+Devil May Cry: HD Collection
+Fez
+3D Classics: Kid Icarus
+Max Payne 3
+Mario Tennis Open
+Dragon's Dogma
+Pokemon Conquest
+Pokemon Black and White 2
+Spec Ops: The Line
+Kingdom Hearts 3D: Dream Drop Distance
+Darksiders II
+Dust: An Elysian Tale
+New Super Mario Bros. 2
+Counter Strike: Global Offensive
+Dark Souls: Prepare to Die Edition
+Mark of the Ninja
+Black Mesa
+FTL: Faster Than Light
+Borderlands 2
+Rayman Jungle Run
+Torchlight
+Resident Evil 6
+Dishonoured
+Machinarium (Mac)
+XCOM: Enemy Unknown
+Doom 3: BFG Edition
+Hotline Miami
+Guns Of Icarus Online
+LEGO Lord of the Rings: The Video Game
+Dragonball Z Budokai: HD Collection
+Halo 4
+Angry Birds Star Wars
+Paper Mario Sticker Star
+Thomas Was Alone
+Call of Duty 10: Black Ops II
+Batman: Arkham City Armored Edition
+Little Inferno
+Nintendo Land
+Scribblenauts Unlimited
+Sonic & All-Stars Racing Transformed
+Tekken Tag Tournament 2 Wii U Edition
+Super Hexagon
+Far Cry 3
+Grand Theft Auto: San Andreas (XBLA)
+Street Fighter X Mega Man
+Little Inferno
+
 
 --2013--
+Retro City Rampage
+Gunman Clive
+DmC: Devil May Cry
+Temple Run 2
+The Cave
+Fire Emblem Awakening
+Metal Gear Rising: Revengeance
+Brütal Legend
+Bit.Trip Presents... Runner2: Future Legend of Rhythm Alien
+Tomb Raider
+Lego City Undercover
+Monster Hunter 3 Ultimate
+Luigi's Mansion 2
+BioShock Infinite
+BattleBlock Theater
+Don't Starve
+Dragon's Dogma: Dark Arisen
+Far Cry 3: Blood Dragon
+Metro: Last Light
+Flappy Bird
+State of Decay
+Animal Crossing: New Leaf
+New Super Luigi U
+Project X Zone
+Rogue Legacy
+EarthBound (First EU Release on the Wii U)
+Pikmin 3
+Guacamelee! Gold Edition
+Papers, Please
+Mario & Luigi: Dream Team Bros
+Saints Row IV
+Tom Clancy's Splinter Cell: Blacklist
+Final Fantasy XIV: A Realm Reborn
+Grand Theft Auto V
+Angry Birds Star Wars II
+The Legend of Zelda: The Wind Waker HD
+Lone Survivor
+Shadow Warrior (2013)
+Grand Theft Auto Online
+Pokémon X and Y
+The Stanley Parable
+Deus Ex: Human Revolution – Director’s Cut
+LEGO Marvel Super Heroes
+Assassin's Creed IV: Black Flag
+Battlefield 4
+Sonic Lost World
+Call of Duty 11: Ghosts
+Risk of Rain
+XCOM: Enemy Within
+Dead Rising 3
+Super Mario 3D World
+The Legend of Zelda: A Link Between Worlds
+3D Sonic the Hedgehog (3DS port)
+Knytt Underground
 
 --2014--
 
@@ -491,6 +647,10 @@ Metroid Prime Remastered
 Dead Space (2023)
 The Legend of Zelda: Tears of the Kingdom
 Street Fighter 6
+Baldurs Gate 3
+Armoured Core VI: FIRE OF RUBICON
+Cyberpunk 2077: Phantom Liberty
+Sonic Superstars
 
 
 
