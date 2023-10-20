@@ -1,7 +1,7 @@
 A list of all the games i have played at least an hour of
 All years are the earliest year of release.
 Last edit: 20/10/23
-Running total: 558
+Running total: 563
 INCOMPLETE
 
 --1978--
@@ -19,6 +19,15 @@ Galaga
 
 --1982--
 Tron
+Game & Watch: Donkey Kong 
+Game & Watch: Donkey Kong Jr.
+
+--1983--
+Game & Watch: Mario's Bombs Away
+
+--1984-- 
+Devil World
+Ice Climber
 
 --1985-- 3rd Generation (Master System, NES)
 Super Mario Bros. (Wii VC)
