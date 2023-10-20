@@ -1,6 +1,7 @@
 A list of all the games i have played at least an hour of
 All years are the earliest year of release.
-Last edit: 11/10/23
+Last edit: 20/10/23
+Running total: 556
 INCOMPLETE
 
 --1978--
@@ -407,7 +408,6 @@ Epic Mickey
 Doritos Crash Course
 Super Mario All-Stars
 
-
 --2011--
 Dead Space 2
 Magicka
@@ -517,7 +517,6 @@ Far Cry 3
 Grand Theft Auto: San Andreas (XBLA)
 Street Fighter X Mega Man
 Little Inferno
-
 
 --2013--
 Retro City Rampage
@@ -651,10 +650,3 @@ Baldurs Gate 3
 Armoured Core VI: FIRE OF RUBICON
 Cyberpunk 2077: Phantom Liberty
 Sonic Superstars
-
-
-
-
-
-
-
