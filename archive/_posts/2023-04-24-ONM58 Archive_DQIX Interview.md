@@ -8,7 +8,7 @@ feature-title: "Enter The Dragon"
 heading: ONM interviews Dragon Quest Creator Yuji Horii, Dragon Quest composer Koichi Sugiyama, and Dragon Quest IX producer Ryutaro Ichimura.
 tags: Official-Nintendo-Magazine Archive Retrospective Interview Game-Development Nintendo ONM ONMUK video-games Dragon-Quest Dragon-Quest-9 Yuji-Horii Koichi-Sugiyama Ryutaro-Ichimura Japanese Nintendo Nintendo-DS Multiplayer Local-Multiplayer Slimes 
 categories: archive
-quip: "This episode of 'Gurg's Archival Shithouse' is sponsored by Yevon. Get 10% of aeon summons with the code MIKA420"
+quip: 
 header_img: /static/ONM/58/1.jpg
 intro: Archive of <i>The Official Nintendo Magazine UK</i> interview with <i>Dragon Quest</i> Creator Yuji Horii, as well as series composer Koichi Sugiyama and <i>Dragon Quest IX</i> producer Ryutaro Ichimura. Copied verbatim from issue 58 of <i>The Official Nintendo Magazine UK</i>, published by <i>Future plc</i> in July 2010 for The Shops.
 ---

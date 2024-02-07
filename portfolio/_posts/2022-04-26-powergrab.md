@@ -2,13 +2,13 @@
 layout: portfolio
 title: Powergrab - University Project
 link: https://github.com/GreigHuth/powergrab
-tags: java
-overview: Powergrab was a 3rd year university project where I was tasked with programming a drone simulator. I used Java to implement the algorithms for two drones, a stateful one and a stateless one. The aim was to program drones to "fly" around a GeoJson map downloaded from a server and collect points from all of the good stations without touching any the bad stations and before the drone runs out of power. Every move the drone could make cost power and the drone was only allowed to make a maximum of 250 moves. The path the drone takes was not important, only its ability to path around bad stations while ensuring it touched all the good ones. The problem, while simple, allowed for a lot of differnet approaches and experimentation which overall made it one of my favourite courseworks at university. For this coursework i was awarded a mark of 89/100 with the strongest parts of my submission being my efficient and clean code and my concise report.
+tags: UI UX
 ---
 
 ### Overview:
 
 Powergrab was a 3rd year university project where I was tasked with programming a drone simulator. I used Java to implement the algorithms for two drones, a stateful one and a stateless one. The aim was to program drones to "fly" around a GeoJson map downloaded from a server and collect points from all of the good stations without touching any the bad stations and before the drone runs out of power. Every move the drone could make cost power and the drone was only allowed to make a maximum of 250 moves. The path the drone takes was not important, only its ability to path around bad stations while ensuring it touched all the good ones. The problem, while simple, allowed for a lot of differnet approaches and experimentation which overall made it one of my favourite courseworks at university.
+For this coursework i was awarded a mark of 89/100 with the strongest parts of my submission being my efficient and clean code and my concise report.
 
 You can see the path it takes
 [here](https://github.com/GreigHuth/powergrab/blob/master/powergrab1.jpg).
