@@ -1,6 +1,6 @@
 ---
 layout: archive_post
-title: "Issue 32 - Super Smash Bros. Brawl Interview w/ Masahiro Sakurai"
+title: "Issue 32 - Interview with Masahiro Sakurai (Super Smash Bros. Brawl)"
 date:   2023-06-07
 issue: 32
 release: "August 2008"

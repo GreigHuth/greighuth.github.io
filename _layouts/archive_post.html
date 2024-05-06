@@ -16,8 +16,6 @@ layout: default
 
     <h3><i>{{ page.heading }}</i></h2>
     <h3> Issue {{ page.issue }} {{ page.release }}</h2>
-    <h3> High Resolution Scans --> (COMING SOON)</h3>
-  
 
   </div>
 </div>
@@ -26,10 +24,12 @@ layout: default
   {{ page.intro }}
 </div>
 
-<figure>
-  <img src="{{ page.header_img }}" style="height: 550px; width: auto; display: block; margin:auto; padding-bottom: 0px;">
-  <b><figcaption></figcaption></b>
-</figure>
+{% if page.header_img %}
+  <figure>
+    <img src="{{ page.header_img }}" style="height: 550px; width: auto; display: block; margin:auto; padding-bottom: 0px;">
+    <b><figcaption></figcaption></b>
+  </figure>
+{% endif %}
 
 <div class="onm-archive">
   {{ content }}
