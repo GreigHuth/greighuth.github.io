@@ -1,4 +1,25 @@
-- title: test
+- title: L.A. Noire
   platform: PC 
   store: steam
   link:  https://store.steampowered.com/app/110800/LA_Noire/
+
+- title: The Last Of Us
+  platform: PS3
+  store: PS Store
+  link:  https://www.playstation.com/en-gb/games/the-last-of-us-remastered/
+
+- title: The Elder Scrolls IV: Oblivion Remastered
+  platform: PC 
+  store: steam
+  link:  https://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remastered/
+
+- title: Resident Evil 5 Gold Edition
+  platform: PC 
+  store: steam
+  link:  https://store.steampowered.com/app/21690/Resident_Evil_5/
+
+- title: Monster Hunter Generations Ultimate
+  platform: Nintendo Switch
+  store: Nintendo Store
+  link:  https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Monster-Hunter-Generations-Ultimate--1387957.html
+
