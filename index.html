@@ -29,7 +29,6 @@ layout: default
   <ul class="no-bullets">
     {% for game in site.data.currentlyplaying %}
       <li> <a>{{ game.title }}</a> | {{ game.platform }} | <a href ="{{ game.link }}"> {{ game.store }}</a></li>
-      <br>
     {% endfor %}
   </ul>
   
