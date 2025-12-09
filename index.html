@@ -58,3 +58,10 @@ layout: default
   </ul>
 </div>
 
+ <h4> What ive played in the big 2025:</h4>
+  <ul class="no-bullets">
+    {% for game in site.data.minireviews %}
+      <li> <i><b>{{ game.title }}</b></i> | {{ game.platform }} | {{ game.status }}</a></li>
+    {% endfor %}
+  </ul>
+
