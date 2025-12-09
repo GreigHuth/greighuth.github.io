@@ -26,7 +26,7 @@ layout: default
   <h4> What Im Playing at the moment:</h4>
   <ul class="no-bullets">
     {% for game in site.data.currentlyplaying %}
-      <li> <i><b>{{ game.title }}</b></i> | {{ game.platform }} | <a href ="{{ game.link }}"> {{ game.store }}</a></li>
+      <li> <i><b>{{ game.title }}</b></i> | {{ game.platform }} <a href ="{{ game.link }}"> {{ game.store }}</a></li>
     {% endfor %}
   </ul>
   
