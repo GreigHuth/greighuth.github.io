@@ -23,8 +23,6 @@ layout: default
     </ul>
   </div>
 
-  <h2 style="text-align: center;"> Oan yersel son! Cmon, get oot and get it done. </h2>
-
   <h4> What Im Playing at the moment:</h4>
   <ul class="no-bullets">
     {% for game in site.data.currentlyplaying %}
@@ -58,19 +56,5 @@ layout: default
       {% endif %}
     {% endfor %}
   </ul>
-
-  <h4> Games i have played in 2025 :</h4>
-  <ul class="no-bullets">
-    {% for game in site.data.minireviews %}
-      <li> <i><b>{{ game.title }}</b></i> ({{ game.platform }}) </li>
-      <li> {{ game.text }}  </li>
-      <br>
-    {% endfor %}
-  </ul>
-
-  
-
-  
-
 </div>
 
